@@ -31,3 +31,6 @@ Efficient collaboration, workspace management, and configuring access permission
 Company Background: AtliQ Hardware, a prominent player in the computer and accessories market, caters to customers through retailers and direct distributors globally. Recent setbacks in their American store, attributed to decisions based on surveys, intuition, and limited Excel analysis, have emphasized the necessity for a dedicated analytics team. This team is poised to play a pivotal role in guiding the company toward data-driven insights and decisions.
 
 Project Objective: The primary goal of this project is to provide clarity on the purpose and objectives of the data analytics initiative. The resulting report will serve as a cornerstone for data-driven decision-making, addressing numerous questions about the company's performance. It signifies a critical step not only in surviving but thriving in the industry.
+![SS1](https://github.com/tejaspatil2295/PowerBI-Business-Insights-360/assets/154407980/ab882f2e-c626-4c9a-a07d-0b386b1a0094)
+
+
